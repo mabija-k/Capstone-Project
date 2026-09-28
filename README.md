@@ -115,8 +115,4 @@ jupyter notebook Implementation.ipynb
 
 ## Author
 
-[Your name] — Computer Science Capstone Project
-
-## License
-
-[Specify a license, e.g. MIT, or state "For academic use only."]
+Khwezi Mabija — Data Science Capstone Project
