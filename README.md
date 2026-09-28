@@ -86,8 +86,8 @@ LightGBM outperformed the Logistic Regression baseline and the other candidates 
 ### Installation
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/mabija-k/Capstone-Project/tree/main>
+cd <Capstone Project>
 pip install -r requirements.txt
 ```
 
